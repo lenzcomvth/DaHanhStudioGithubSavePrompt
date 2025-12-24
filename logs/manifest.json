@@ -1,1 +1,10 @@
-
+[
+  {
+    "id": 1766603273323,
+    "timestamp": "2025-12-24T19:07:53.323Z",
+    "prompt": "Please using the uploaded face picture, as reference and please maintain her nose, eyes and lips 100% same a make sure the face accurate as follows: \nA beautiful woman stands comfortably outdoors, leaning with her left arm on a railing, her body slightly angled to the right. Her posture is relaxed and natural. \nShe also holds her iPhone 17 Promax. Her face is slightly turned to the right, showcasing a gentle profile. She has a calm and confident expression. \nThe background is a city rooftop with blurred city lights, streets, and buildings, creating a sense of depth and field effect. The lighting is natural, soft, and slightly diffused, clearly highlighting her facial features and attire while maintaining a smooth, slightly out-of-focus background. \nDressing: Dressed as 100% same as shown in the pictures attached (2nd picture). Dont change anything! \nBody Setting: Please keep the nose, eyes and lips 100% same as in the uploaded picture + natural lips, her body is oily & shining & glowing + smooth white skin, slim body, Brownish black wavy hairstyle, doll make up. charming belly, neck & shoulder.\nAccessories: She is wearing a gold bracelet & Gold necklace. Gold ring and gold shaped earrings. She also wears a Gold minimalist necklace around her waist. \nShot with Nikon Z9, Nikkor Z 85mm f/1.2 S Lens, Deep Resistance, Bokee, 45.7M Pixels, Very Realistic, Outstanding Skin Texture, Sharp Eye Focus, 8k, High Quality, Natural Light., Natural soft diffused light with golden hour backlighting to create specular highlights on glowing skin, Nikkor Z 85mm f/1.2 S Lens at f/1.2 for deep bokeh and compressed depth of field, Warm golden tones with high-contrast metallic gold accents and natural, vibrant skin tones, Critical focus on eyes and facial features, ultra-sharp skin textures, 45.7MP high-resolution detail, Modern city rooftop at dusk with blurred urban architecture and street bokeh, High-end commercial fashion editorial, hyper-realistic, glamorous and polished aesthetic",
+    "imagePath": "logs/images/2025-12-24T19-07-53-323Z.png",
+    "promptPath": "logs/prompts/2025-12-24T19-07-53-323Z.md",
+    "ip": "104.28.219.201"
+  }
+]
