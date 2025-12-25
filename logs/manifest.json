@@ -1,5 +1,13 @@
 [
   {
+    "id": 1766673533530,
+    "timestamp": "2025-12-25T14:38:53.530Z",
+    "prompt": "[BATCH MASTER] สร้างภาพหญิงสาวหน้าเหมือนในภาพที่อัพโหลด 100% องศาการมองมาเหมือนภาพ ผมยาวหยักศกสยายมาด้านหน้าเหมือนในภาพ หญิงสาวมีรูปร่างผอมเพรียวและผิวพรรณสวยงาม ส่วนสูง 170 cm.ใส่ชุดซานตาคลอสแบบเกาะอกคอวีลึก มีตัวอักษรเขียนว่า Santa Maya ตรงหน้าอกเสื้อ ใส่กระโปรงสั้นในธีมซานตาคลอส ใส่สร้อยสีเงินมีอักษรคำว่า MAYA เห็นได้ชัด ใส่ต่างหูเงินเล็ก และสร้างภาพผู้ชายหน้าเหมือนในภาพที่อัพโหลด 100% องศาการมองมาเหมือนภาพ ผู้ชายใส่ชุดซานตาคลอส ไม่มีหนวดเครา ใส่หมวกแบบซานตาครอส มีกล่องของขวัญอยู่เต็มตรงท้ายรถเลื่อน รถเลื่อนลากโดยกวางแรนเดียร์ตัวใหญ่ ผู้ชายเป็นผู้ถือบังเหียน ทั้งหมดกำลังจอดอยู่บนถนนหน้าบ้านคล้ายภาพแนบ หญิงสาวยืนอยู่ข้างรถเลื่อน โบกมือให้กล้อง หญิงสาวหันข้างให้กล้องและผู้ชายหันหน้าให้กล้อง ถ่ายภาพแบบ Close up ภาพคมชัดระดับสตูดิโอ (studio quality) สร้างภาพสมจริงเหมือนจริง เห็นกวางและรถเลื่อนทั้งขบวนจอดอยู่บนถนนหน้าบ้าน",
+    "imagePath": "logs/images/2025-12-25T14-38-53-530Z.png",
+    "promptPath": "logs/prompts/2025-12-25T14-38-53-530Z.md",
+    "ip": "104.28.219.201"
+  },
+  {
     "id": 1766672907068,
     "timestamp": "2025-12-25T14:28:27.068Z",
     "prompt": "[BATCH START] Captured a highly detailed, high resolution 8k photo of a young woman using the exact face and facial features with long, flowing platinum blonde hair styled in a loose braid over her shoulder, adorned with a large pink flower. She has fair skin, delicate features, and a serene, focused expression. She is dressed in a light, elegant, and slightly sheer off shoulder garment that reveals her shoulders and arms. She is standing in a forest with a soft, misty background of trees and foliage.\nThe woman is gently holding a glowing, tiny spiderweb with several small, luminous spiders and delicate, glowing silk threads extending from her hands. The scene is illuminated by a soft, light that highlights her face, hair, and the luminous elements of the web and spiders.",
