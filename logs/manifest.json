@@ -1,5 +1,13 @@
 [
   {
+    "id": 1767713801548,
+    "timestamp": "2026-01-06T15:36:41.548Z",
+    "prompt": "ใช้รูปภาพที่อัปโหลด 1 เป็นข้อมูลอ้างอิง ห้ามเปลี่ยนแปลงลักษณะใบหน้าของเธอ สร้างภาพบุคคลแบบโคลสอัพที่สมจริงระดับ 4K ของหญิงสาวรูปร่างเพรียวบางผมยาวสีน้ำตาลเข้มเงางามสุขภาพดี วูฟคัท แวนดี้ผมยาวถึงสะโพก ลมพัดผมเล็กน้อย สวมชุดเดรสยาวสีขาวแขนพอง ตกแต่งลูกไม้ มีมิติ สวยงามหรูหรา\nวางชุดในรูปภาพที่ 2 ลงบนตัวผู้หญิงในรูปภาพที่ 1\nพื้นหลังเป็นสวนที่เต็มไปด้วยดอกไม้ฤดูใบไม้ผลิ เธอถือช่อดอกไม้และยิ้มขณะยื่นดอกไม้ให้ผู้ชม เธอสวมต่างหูเงินรูปผีเสื้อ มีผีเสื้อบินอยู่รอบตัวเธอ. \n\nSPECIFIC POSE: Wide angle environmental shot, subject centered in epic scenery. \n\nNEGATIVE_PROMPT: deformed, ugly, distorted face, extra limbs, bad anatomy, blurry, low quality, watermark, text, signature, bad eyes, mutation, messy drawing, fused fingers, too many fingers, cross-eyed, malformed hands.",
+    "imagePath": "logs/images/2026-01-06T15-36-41-548Z.png",
+    "promptPath": "logs/prompts/2026-01-06T15-36-41-548Z.md",
+    "ip": "104.28.222.73"
+  },
+  {
     "id": 1767713779242,
     "timestamp": "2026-01-06T15:36:19.242Z",
     "prompt": "ใช้รูปภาพที่อัปโหลด 1 เป็นข้อมูลอ้างอิง ห้ามเปลี่ยนแปลงลักษณะใบหน้าของเธอ สร้างภาพบุคคลแบบโคลสอัพที่สมจริงระดับ 4K ของหญิงสาวรูปร่างเพรียวบางผมยาวสีน้ำตาลเข้มเงางามสุขภาพดี วูฟคัท แวนดี้ผมยาวถึงสะโพก ลมพัดผมเล็กน้อย สวมชุดเดรสยาวสีขาวแขนพอง ตกแต่งลูกไม้ มีมิติ สวยงามหรูหรา\nวางชุดในรูปภาพที่ 2 ลงบนตัวผู้หญิงในรูปภาพที่ 1\nพื้นหลังเป็นสวนที่เต็มไปด้วยดอกไม้ฤดูใบไม้ผลิ เธอถือช่อดอกไม้และยิ้มขณะยื่นดอกไม้ให้ผู้ชม เธอสวมต่างหูเงินรูปผีเสื้อ มีผีเสื้อบินอยู่รอบตัวเธอ. \n\nSPECIFIC POSE: Candid moment, laughing naturally, soft focus background. \n\nNEGATIVE_PROMPT: deformed, ugly, distorted face, extra limbs, bad anatomy, blurry, low quality, watermark, text, signature, bad eyes, mutation, messy drawing, fused fingers, too many fingers, cross-eyed, malformed hands.",
